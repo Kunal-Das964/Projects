@@ -8,6 +8,8 @@ const randomColor = function () {
     return color;
 };
 
+
+
 let intervalId;
 
 let startChangingBgColor = function () {
